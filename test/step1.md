@@ -9,3 +9,5 @@ Type the following command into the command prompt:
 You can also copy the command and paste it on to the command line:
 
 `echo hello world`{{copy}}
+
+----
